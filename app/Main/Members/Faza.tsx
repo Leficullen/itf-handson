@@ -3,8 +3,8 @@ export default function Faza() {
     <div className="flex flex-col w-full h-full rounded-xl overflow-hidden" style={{ minHeight: '200px' }}>
 
       <div className="flex-1 flex items-end bg-stone-900 px-5 pb-4 pt-8">
-        <h1 className="text-white font-black text-4xl leading-none tracking-tight">
-          Faza
+        <h1 className="text-white font-black text-xl leading-none tracking-tight">
+          Muhammad Faza Al-Banna
         </h1>
       </div>
 
