@@ -1,5 +1,6 @@
 import Lefi from "./Members/Lefi"
 import Zakiy from "./Members/Zakiy"
+import Faza from "./Members/Faza"
 
 export function Welcome() {
   return (
@@ -7,6 +8,7 @@ export function Welcome() {
       <div className="grid grid-cols-5 gap-4 py-10 mx-2">
         <Lefi/>
         <Zakiy/>
+        <Faza/>
       </div>
     </main>
   );
