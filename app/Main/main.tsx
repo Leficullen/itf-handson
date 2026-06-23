@@ -1,5 +1,6 @@
 import Lefi from "./Members/Lefi"
 import Lanang from "./Members/Lanang"
+import Zakiy from "./Members/Zakiy"
 
 export function Welcome() {
   return (
@@ -8,6 +9,7 @@ export function Welcome() {
         <Lefi/>
         <Lanang/>
 
+        <Zakiy/>
       </div>
     </main>
   );
